@@ -1,0 +1,1 @@
+Create a public folder and place a suitable index.html in it before running Create React App, or use the original deployed index.html as a starting point.
